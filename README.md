@@ -565,8 +565,4 @@ A: Our system achieves 91%+ confidence scores on most documents, with accuracy v
 
 <div align="center">
 
-**[⭐ Star this repo](https://github.com/parthmax2/DocuMind-AI)** if you find it useful!
-
-Made with ❤️ by [parthmax](https://github.com/parthmax2)
-
 </div>
